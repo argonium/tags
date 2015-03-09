@@ -1,0 +1,6 @@
+Dear Mr. ${last.name},
+
+Thank you for your letter from ${user.city}.
+
+Sincerely,
+${receiver.name}
