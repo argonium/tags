@@ -1,4 +1,4 @@
-# tags
+# Tags
 Tags is a Java module that makes it very easy to perform tag substitution on an input text file. Tags are of the form ${value}. I consider this project to be a very simple version of the Apache Velocity project. Tags doesn't have the functionality of Velocity, but it's simpler to use and fits my needs when Velocity is overkill. For instance, I've used Tags in the past to generate HTML files from data in a database.
 
 Here's an example. Suppose you want to generate a form letter of the form:
